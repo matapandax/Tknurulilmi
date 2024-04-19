@@ -11,8 +11,7 @@
 		<div class="form-group row">
 			<label for="sambutan" class="col-sm-2 col-form-label">Sambutan</label>
 			<div class="col-sm-8">
-				<textarea name="content" id="content" rows="5" class="form-control" value="<?= $content->content ?>"><?= $content->content ?></textarea>
-				<?= form_error('content', '<small class="form-text text-danger">', '</small>') ?>
+				<textarea name="content" id="content_sambutan" rows="5" class="form-control" value="<?= $content->content ?>"><?= $content->content ?></textarea>
 			</div>
 		</div>
 
@@ -44,3 +43,10 @@
 		</div>
 	<?= form_close() ?>
 </div>
+
+<script src="https://cdn.ckeditor.com/4.16.2/standard/ckeditor.js"></script>
+
+<!-- Initialize CKEditor -->
+<script>
+    CKEDITOR.replace('content_sambutan');
+</script>
