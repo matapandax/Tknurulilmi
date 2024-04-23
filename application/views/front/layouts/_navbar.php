@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
 	<div class="container">
 		<a class="navbar-brand" href="<?= base_url() ?>">
-			<img style="max-width:250px;" src="<?= base_url('img/identitas/logo.png') ?>">
+			<img style="max-width:250px;" src="<?= base_url('img/identitas/logo.jpg') ?>">
 		</a>
 		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
 			<span class="navbar-toggler-icon"></span>
