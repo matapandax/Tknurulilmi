@@ -3,7 +3,7 @@
 		<div class="row">
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 text-center">
 				<img style="width: 300px; height:90px" src="<?= base_url('img/identitas/logo3.png') ?>" alt="">
-				<p class="mt-3">Jl. Rumpin Leuwiliang (Komp. Asy-Syuhada) Gn. Nyungcung Rumpin - Bogor</p>
+				<p class="mt-3">Komp. Purn Bakti No.85 RT 03 RW 10 Kel.Drangong Kec.Taktakan Kota Serang</p>
 			</div>
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 				<h5>Tentang Kami</h5>
@@ -16,12 +16,12 @@
 			</div>
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 				<h5>Kontak Kami</h5>
-				<p>Email : smk.islam.asysyuhada@gmail.com</p>
+				<p>Email : tknurulilmi2011serang@gmail.com</p>
 			</div>
 		</div>
 		<hr>
 		<p class="text-center p-0">
-			Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a class="text-warning" target="_blank">SMK ASY-SYUHADA ROESLY</a> | Repost by <a href='https://stokcoding.com/' title='StokCoding.com' target='_blank'>StokCoding.com</a>
+			Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a class="text-warning" target="_blank">TK Nurul Ilmi</a> | Repost by <a href='https://stokcoding.com/' title='StokCoding.com' target='_blank'>StokCoding.com</a>
 			
 		</p>
 	</div>

@@ -20,7 +20,7 @@ html, body {
 }
 
 .navbar ul li a:hover {
-	color: orange !important;
+	color: #28a745 !important;
 }
 
 .navbar .dropdown-menu a:hover {
@@ -234,5 +234,5 @@ html, body {
 }
 
 .navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
-	color: orange;
+	color: #28a745;
 }

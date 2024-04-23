@@ -23,9 +23,9 @@
 				</div>
 				</li>
 				<li class="nav-item dropdown <?php if($title == 'Administrasi Perkantoran' || $title == 'Akutansi' || $title == 'Pemasaran') echo "active"; ?>">
-				<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+				<!--<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 					Jurusan
-				</a>
+				</a>-->
 				<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
 					<a class="dropdown-item" href="<?= base_url('jurusan/ap') ?>">Administrasi Perkantoran</a>
 					<a class="dropdown-item" href="<?= base_url('jurusan/ak') ?>">Akutansi</a>
