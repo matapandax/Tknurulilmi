@@ -46,7 +46,7 @@
 	<div class="container text-center">
 		<div class="row">
 			<div class="col">
-				<h2 class="">Jurusan</h2>
+				<h2 class="">Motto Tk Nurul Ilmi</h2>
 			</div>
 		</div>
 		<hr>
