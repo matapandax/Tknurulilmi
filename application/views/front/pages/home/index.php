@@ -52,16 +52,16 @@
 		<hr>
 		<div class="row pt-3">
 			<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 mb-4">
-				<img class="" src="<?= base_url('img/jurusan/calculator.svg') ?>" alt="">
-				<h5 class="mt-2">Akutansi</h5>
+				<!--<img class="" src="<?= base_url('img/jurusan/calculator.svg') ?>" alt="">-->
+				<h5 class="mt-2">"Melahirkan Generasi Islami, Rabbani dan Rahmatan Lil A’lamin"</h5>
 			</div>
 			<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 mb-4">
-				<img class="" src="<?= base_url('img/jurusan/work.svg') ?>" alt="">
-				<h5 class="mt-2">Administrasi Perkantoran</h5>
+				<!--<img class="" src="<?= base_url('img/jurusan/work.svg') ?>" alt="">-->
+				<h5 class="mt-2"></h5>
 			</div>
 			<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 mb-4">
-				<img class="" src="<?= base_url('img/jurusan/marketing.svg') ?>" alt="">
-				<h5 class="mt-2">Pemasaran</h5>
+				<!--<img class="" src="<?= base_url('img/jurusan/marketing.svg') ?>" alt="">-->
+				<h5 class="mt-2"></h5>
 			</div>
 		</div>
 	</div>
