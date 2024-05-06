@@ -15,13 +15,13 @@
 				<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 					Profil
 				</a>
-				<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+				<!--<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
 					<a class="dropdown-item" href="<?= base_url('profil/sejarah') ?>">Sejarah</a>
 					<a class="dropdown-item" href="<?= base_url('profil/visimisi') ?>">Visi & Misi</a>
 					<a class="dropdown-item" href="<?= base_url('profil/struktur') ?>">Struktur Organisasi</a>
 					<a class="dropdown-item" href="<?= base_url('profil/fasilitas') ?>">Fasilitas</a>
 				</div>
-				</li>
+				</li>-->
 				<li class="nav-item dropdown <?php if($title == 'Administrasi Perkantoran' || $title == 'Akutansi' || $title == 'Pemasaran') echo "active"; ?>">
 				<!--<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 					Jurusan

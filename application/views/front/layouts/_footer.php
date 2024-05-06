@@ -2,7 +2,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 text-center">
-				<img style="width: 300px; height:90px" src="<?= base_url('img/identitas/logo3.png') ?>" alt="">
+				<img style="width: 300px; height:90px" src="<?= base_url('img/identitas/logo.jpg') ?>" alt="">
 				<p class="mt-3">Komp. Purn Bakti No.85 RT 03 RW 10 Kel.Drangong Kec.Taktakan Kota Serang</p>
 			</div>
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
